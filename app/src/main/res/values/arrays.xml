@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_sync_refresh_delay_entries">
+        <item>15 Secs</item>
+        <item>30 Secs</item>
+        <item>1 min</item>
+        <item>3 mins</item>
+        <item>5 mins</item>
+        <item>10 mins</item>
+        <item>30 mins</item>
+        <item>1 hour</item>
+        <item>12 hours</item>
+    </string-array>
+
+    <string-array name="pref_sync_refresh_delay_values">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>180000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+        <item>3600000</item>
+        <item>36000000</item>
+    </string-array>
+
+</resources>
